@@ -77,4 +77,9 @@ k4a.stop()
 - **Other:**
   For more customisation options see the official documentation, examples of others parameters that can be customised include image format, exposure, brightness, contrast, white balance, and other camera parameters. Most of these function completely fine under the default settings and do not necessarily need to be specified as shown in the earlier initialisation example.
   
+## My Contacts
 
+  Should you have any other questions about the functions of the camera, feel free to contact me.
+
+  My student email is tyler.durrant@connect.qut.edu.au, and in the case that I've graduated and that email doesn't work, feel free to message my personal at durrant.business@gmail.com
+  Always happy to chat so don't feel affraid to message.
